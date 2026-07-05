@@ -1,0 +1,12 @@
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.dep
+*.build_log
+*.map
+MDK-ARM/DebugConfig/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
